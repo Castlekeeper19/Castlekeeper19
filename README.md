@@ -1,15 +1,3 @@
 ### Hi there 👋
+I am a project manager and web developer based in Tokyo!  Orginally from the US, I moved to Japan in 2011, and have worked in Thailand, Vietnam, Myanmar, Australia and the UK.  I love traveling and working with new people on projects that help others grow.    
 
-<!--
-**Castlekeeper19/Castlekeeper19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on project management applications and Easy Money
-- 🌱 I’m currently learning Ruby on Rails and JavaScript
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about Movies
-- 📫 How to reach me: 
-- ⚡ Fun fact: I'm probably the only North Dakotan you'll ever meet.  
--->
